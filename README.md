@@ -1,3 +1,5 @@
 # adatb_buuclw
-"Európa-liga" adatbázis
+"Európa-liga" adatbázis házidolgozat
+
+
 Készítette: Baranyi Barnabás
