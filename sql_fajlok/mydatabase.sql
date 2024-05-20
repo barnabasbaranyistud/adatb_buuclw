@@ -65,7 +65,7 @@ CREATE TABLE Referees
     nationality	VARCHAR(50)
 );
 
-INSERT INTO Referees (referee_id, referee_name, nationality) VALUES
+INSERT INTO Referees (referee_id, name, nationality) VALUES
 	('1', 'John Smith', 'England'),
 	('2', 'Sarah Johnson', 'Spain'),
 	('3', 'David Lee', 'Germany'),
